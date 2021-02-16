@@ -18,6 +18,7 @@ int main()
 	// 최종 출력 형식은 float형
 	for (auto i : data)
 		std::cout << i << " ";
+		
 	std::cout << '\n';
 
 	return 0;
